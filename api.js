@@ -3,7 +3,7 @@
 //   <script src="api.js"></script>
 
 // Замени YOUR_PROJECT_REF на идентификатор проекта (часть Project URL до .supabase.co)
-const API_URL = "https://YOUR_PROJECT_REF.supabase.co/functions/v1/api";
+const API_URL = "https://sb_secret_YibSErEgZtrK-BY0_BnUKQ_D03mtGIq.supabase.co/functions/v1/api";
 
 const tg = window.Telegram.WebApp;
 tg.ready();
